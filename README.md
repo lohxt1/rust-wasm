@@ -26,7 +26,7 @@ in Rust and WebAssembly. The frontend is served as a
 - NextJS
 - Tailwind
 
-## 💁‍♀️ How to use
+## How to use
 
 - Ensure you have the [Rust toolchain](https://www.rust-lang.org/) setup
 - Install [wasm-pack](https://rustwasm.github.io/wasm-pack/)
